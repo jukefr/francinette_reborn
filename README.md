@@ -2,6 +2,8 @@
 
 Old one seems unmaintained, we go again.
 
+Known Bugs: bonus part of libft-war-machine feel free to make a PR
+
 An easy to use testing framework for the 42 projects.
 
 Use `francinette` or `paco` inside a project folder to run it.
