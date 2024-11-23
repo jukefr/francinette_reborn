@@ -70,9 +70,9 @@ if ! grep "francinette_reborn=" "$RC_FILE" &> /dev/null; then
 	printf "\nalias francinette_reborn=%s/francinette_reborn/tester.sh\n" "$HOME" >> "$RC_FILE"
 fi
 
-if ! grep "paco=" "$RC_FILE" &> /dev/null; then
+if ! grep "paco_reborn=" "$RC_FILE" &> /dev/null; then
 	echo "Short alias not present. Adding it"
-	printf "\nalias paco=%s/francinette_reborn/tester.sh\n" "$HOME" >> "$RC_FILE"
+	printf "\nalias paco_reborn=%s/francinette_reborn/tester.sh\n" "$HOME" >> "$RC_FILE"
 fi
 
 # print help
