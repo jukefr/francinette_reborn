@@ -14,7 +14,7 @@ class Tripouille(BaseExecutor):
 
 	name = 'printfTester'
 	folder = 'printfTester'
-	git_url = 'https://github.com/Tripouille/printfTester'
+	git_url = 'https://github.com/jukefr/printfTester'
 	test_regex = re.compile(r"(\d+|LEAKS)\.([^ ]+)")
 
 	category_map = {'X': 'upperx', '%': 'percent', '.': 'dot', "'": 'space', '#': 'sharp', '-': 'minus'}

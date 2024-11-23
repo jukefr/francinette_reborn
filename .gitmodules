@@ -12,7 +12,7 @@
 	url = https://github.com/xicodomingues/gnlTester
 [submodule "tests/printf/printfTester"]
 	path = tests/printf/printfTester
-	url = https://github.com/xicodomingues/printfTester
+	url = https://github.com/jukefr/printfTester
 [submodule "tests/printf/unit-test"]
 	path = tests/printf/unit-test
 	url = https://github.com/xicodomingues/printf-unit-test
